@@ -3,7 +3,7 @@ module AgregExport
   class ExportMethodMissingError < StandardError
   end
 
-  class DataFormatter
+  class Formatter
 
     def initialize(data_collector)
       @data_collector = data_collector

@@ -1,6 +1,6 @@
 module AgregExport
 
-  class DataCollector
+  class Agregator
 
     @@handlers = []
 

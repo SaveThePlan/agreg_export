@@ -1,4 +1,4 @@
 source 'https://rubygems.org'
 
-# Specify your gem's dependencies in data_exporter.gemspec
+# Specify your gem's dependencies in agreg-export.gemspec
 gemspec

@@ -1,4 +1,4 @@
-module DataExporter
+module AgregExport
 
   class DataCollector
 

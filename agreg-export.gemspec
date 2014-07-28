@@ -4,7 +4,7 @@ $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
 require 'agreg_export/version'
 
 Gem::Specification.new do |spec|
-  spec.name          = "agreg-export"
+  spec.name          = "agreg_export"
   spec.version       = AgregExport::VERSION
   spec.authors       = ["SaveThePlan"]
   spec.email         = ["realnanook@gmail.com"]
